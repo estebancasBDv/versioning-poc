@@ -3,7 +3,7 @@ import { Accordion } from './accordion';
 
 const Story: ComponentMeta<typeof Accordion> = {
   component: Accordion,
-  title: 'Accordion',
+  title: 'V1/Accordion',
 };
 export default Story;
 

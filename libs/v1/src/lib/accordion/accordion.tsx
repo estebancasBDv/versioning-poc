@@ -4,7 +4,7 @@ export interface AccordionProps {}
 export function Accordion(props: AccordionProps) {
   return (
     <div className="container">
-      <h1>Welcome to Accordion!</h1>
+      <h1>Welcome to Accordion V1!</h1>
     </div>
   );
 }

@@ -4,7 +4,7 @@ export interface ButtonProps {}
 export function Button(props: ButtonProps) {
   return (
     <div>
-      <h1>Welcome to Button!</h1>
+      <button className="bg-primary p-2 rounded-lg">Welcome to Button V2!</button>
     </div>
   );
 }
